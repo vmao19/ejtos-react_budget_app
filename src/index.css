@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.currency-select {
+    background-color: greenyellow;
+}
+
+.increase-button {
+    background-color: green;
+    border-radius: 100%;
+    color: white;
+    font-weight: 900;
+}
+
+.decrease-button {
+    background-color: red;
+    border-radius: 100%;
+    color: white;
+    font-weight: 900;
+}
